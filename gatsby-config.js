@@ -1,19 +1,20 @@
 module.exports = {
+  pathPrefix: `/devfolio`,
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://anthonymq.github.io/devfolio/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Anthony MQ',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Anthony MQ | Cloud Architect`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Cloud Archi/Dev/Ops and Blockchain Enthousiast`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@AnthonyMQ23`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/anthonymq`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/anthony-marques-323256a5/`,
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
