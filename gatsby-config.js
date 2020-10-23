@@ -21,10 +21,8 @@ Toujours à l'écoute, j'aime délivrer du code qui fait sens et qui fera le bon
 
 Dernier défi en date : développement d'un projet sur l'Internet Computer (https://dfinity.org/)`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
-      
-
-    ],
+    //projects: [
+    //],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
