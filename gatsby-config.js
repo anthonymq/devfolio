@@ -16,44 +16,23 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/anthony-marques-323256a5/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `DevOps passionné et curieux, j'aime me donner des défis en essayant de me réinventer. Mon expérience me permet d'appréhender les problématiques de manière pragmatique et je n'ai pas peur de remettre en question certains acquis.
+Toujours à l'écoute, j'aime délivrer du code qui fait sens et qui fera le bonheur des utilisateurs finaux.
+
+Dernier défi en date : développement d'un projet sur l'Internet Computer (https://dfinity.org/)`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
-      {
-        name: 'Devfolio',
-        description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+      
+
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Esens Consulting',
+        description:
+          `Cloud Architect et référent Blockchain, j'accompagne les entreprises dans leurs migrations Cloud et dans leurs adoption des pratiques DevOps. 
+        Je suis également un des membres fondateurs du Lab de l'entreprise où j'explore le monde des blockchains`,
+        link: 'https://www.esensconsulting.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -61,16 +40,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Node.js, Express.js, Angular, VueJS, Java, Springboot',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'PostreSQL, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD, Gitlab, Microservices, API design, Agile / Scrum',
       },
     ],
   },
